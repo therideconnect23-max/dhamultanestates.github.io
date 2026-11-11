@@ -2,7 +2,7 @@
 
 Portfolio website for a property dealer in DHA Multan: plots, houses and plot files, with drone video and property shoots.
 
-**Live site:** https://therideconnect23-max.github.io
+**Live site:** https://dhamultanestates.github.io
 
 ## Features
 - Drone-viewfinder hero over an animated plot map
